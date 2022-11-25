@@ -1,0 +1,11 @@
+
+const Form = ({busqueda}) => {
+    return (
+        <form className="d-flex" role="search">
+        <input className="form-control me-2" type="search" placeholder={busqueda} aria-label="Search" />
+        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    );
+}
+
+export default Form;
