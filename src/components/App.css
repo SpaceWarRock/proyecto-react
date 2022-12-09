@@ -1,0 +1,34 @@
+.cardProducto {
+    width: 18rem;
+    margin: 4px;
+    background-color: white;
+}
+
+.cardBody {
+    background-color: white;
+    color: black;
+    margin-bottom: 3px;
+    text-align: center;
+
+}
+
+img {
+    margin-top:3px;
+}
+
+.cardProductos {
+    margin: 4px;
+    align-items:center;
+    justify-content: center;
+}
+
+.cartWidget {
+    position: relative;
+    right: 5%;
+    color:white;
+}
+
+.cantCarrito {
+    position: relative;
+    left: 13%;
+}
